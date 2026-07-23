@@ -73,5 +73,3 @@ IT Systems Engineer • Full Stack Developer • Network & Cybersecurity Enthusi
 ---
 
 **⭐ N’hésite pas à mettre ce projet en favori !**
-
-```
